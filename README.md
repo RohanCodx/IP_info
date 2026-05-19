@@ -1,6 +1,6 @@
 # 📡 RohanCodx IP info (Lite & Keyless)
 
-Welcome to **RohanCodx IP Analyzer**! Ekdam simple, ultra-fast aur lightweight Python script jo bina kisi premium API Key, login, ya tokens ke kisi bhi IPv4 address ki accurate location aur security metrics scan karti hai.
+Welcome to **RohanCodx IP info**! Ekdam simple, ultra-fast aur lightweight Python script jo bina kisi premium API Key, login, ya tokens ke kisi bhi IPv4 address ki accurate location aur security metrics scan karti hai.
 
 ---
 
